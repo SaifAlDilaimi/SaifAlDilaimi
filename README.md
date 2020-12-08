@@ -1,5 +1,14 @@
-### Hi there 👋
+### 💼 Where i am currently working at/as
+- [Software Developer at eLearning Department of RUB](https://www.rubel.rub.de/) ✨
+- [Instructor at Udemy](https://www.udemy.com/user/saifal/) ⚡
 
+### 💻 What i am currently/done working on
+- Masterthesis on Reinforcement Learning / Deep Learning
+- Updating my Udemy Course 🚀
+
+### 👯 I’m looking to collaborate on
+- TensorCross with Franneck94
+![Saif's Github Stats](https://github-readme-stats.vercel.app/api?username=SaifAlDilaimi&show_icons=true)
 <!--
 **SaifAlDilaimi/SaifAlDilaimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
