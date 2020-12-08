@@ -6,7 +6,7 @@
 - Masterthesis on Reinforcement Learning / Deep Learning
 - Updating my Udemy Course 🚀
 
-### 👯 I’m looking to collaborate on
+### 👯 I’m collaborating on
 - TensorCross with Franneck94
 
 
